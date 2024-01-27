@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-12-04 18:00+0100\n"
+"PO-Revision-Date: 2023-12-04 19:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;esc_html__;esc_html_e;"
+"esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "File not found"
+msgstr "Datei nicht gefunden."
+
+#: 404.php:9
+msgid ""
+"The page you are looking for could not be found. Please check the URL or go "
+"back to the homepage."
+msgstr ""
+"Die gesuchte Seite konnte nicht gefunden werden. Bitte überprüfen Sie die "
+"URL oder kehren Sie zur Startseite zurück."
+
+#: 404.php:10
+msgid "Go to the home page"
+msgstr "Gehe zur Startseite"
+
+#: archive.php:4
+msgid "Archive"
+msgstr "Archive"
+
+#: archive.php:27 archive.php:29 archive.php:31
+msgid "Archive for"
+msgstr "Archive für"
+
+#: archive.php:91
+msgid "Role"
+msgstr "Rolle"
+
+#: archive.php:104
+msgid "Registration date"
+msgstr "Registrierungsdatum"
+
+#: archive.php:111
+msgid "Number of posts"
+msgstr "Anzahl der Beiträge"
+
+#: archive.php:121 customizer-options/posts-options.php:6
+msgid "Posts"
+msgstr "Beiträge"
+
+#: archive.php:125 template-parts/post-list-layouts/cards-posts-list.php:25
+#: template-parts/post-list-layouts/frameless-posts-list.php:26
+#: template-parts/post-list-layouts/material2-posts-list.php:47
+#: template-parts/post-list-layouts/material3-posts-list.php:46
+#: template-parts/post-list-layouts/social-posts-list.php:35
+#: template-parts/post-list-layouts/social-posts-list.php:44
+msgid "Comments"
+msgstr "Kommentare"
+
+#: archive.php:133
+#, php-format
+msgid "About %s:"
+msgstr "Über %s:"
+
+#: archive.php:137
+msgid "Website"
+msgstr "Webseite"
+
+#: archive.php:159
+msgid "Last comments from"
+msgstr "Letzte Kommentare von"
+
+#: archive.php:179
+msgid "No comments found."
+msgstr "Keine Kommentare gefunden."
+
+#: archive.php:201 search.php:29
+msgid "« Previous"
+msgstr "« Vorherige"
+
+#: archive.php:213 search.php:41
+msgid "Next »"
+msgstr "Weiter »"
+
+#: archive.php:219 home.php:36 search.php:50
+msgid "No posts found."
+msgstr "Keine Beiträge gefunden."
+
+#: comments.php:15
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:17
+#, php-format
+msgid "%d Comments"
+msgstr "%d Kommentare"
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: customizer-options/author-page-options.php:6
+msgid "Author Page"
+msgstr "Autorseite"
+
+#: customizer-options/author-page-options.php:19
+#: customizer-options/category-list-options.php:35
+#: customizer-options/date-list-options.php:35
+#: customizer-options/feed-options.php:86
+#: customizer-options/pages-options.php:39
+#: customizer-options/posts-options.php:96
+#: customizer-options/searchresults-options.php:35
+#: customizer-options/tag-list-options.php:35
+msgid "Show sidebar"
+msgstr "Zeige Sidebar"
+
+#: customizer-options/author-page-options.php:39
+#: customizer-options/category-list-options.php:55
+#: customizer-options/date-list-options.php:55
+#: customizer-options/feed-options.php:106
+#: customizer-options/pages-options.php:59
+#: customizer-options/posts-options.php:116
+#: customizer-options/searchresults-options.php:55
+#: customizer-options/tag-list-options.php:55
+msgid "Layout Sidebar"
+msgstr "Layout Sidebar"
+
+#: customizer-options/author-page-options.php:53
+msgid "Show author header"
+msgstr "Zeige Autorheader"
+
+#: customizer-options/author-page-options.php:71
+msgid "Show recent comments"
+msgstr "Zeige letzte Kommentare"
+
+#: customizer-options/author-page-options.php:85
+msgid "Show author role"
+msgstr "Zeige Autorenrolle"
+
+#: customizer-options/author-page-options.php:99
+msgid "Show registration date"
+msgstr "Zeige Registrierungsdatum"
+
+#: customizer-options/author-page-options.php:113
+msgid "Show number of posts"
+msgstr "Zeige Anzahl der Beiträge"
+
+#: customizer-options/author-page-options.php:127
+msgid "Show author website"
+msgstr "Zeige Autorenwebseite"
+
+#: customizer-options/author-page-options.php:141
+msgid "Image size"
+msgstr "Bildgröße"
+
+#: customizer-options/author-page-options.php:162
+#: customizer-options/category-list-options.php:22
+#: customizer-options/date-list-options.php:22
+#: customizer-options/feed-options.php:73
+#: customizer-options/header-options.php:21
+#: customizer-options/searchresults-options.php:22
+#: customizer-options/tag-list-options.php:22
+msgid "Layout"
+msgstr "Layout"
+
+#: customizer-options/category-list-options.php:6
+msgid "Category Results List"
+msgstr "Kategorie Ergebnisliste"
+
+#: customizer-options/category-list-options.php:8
+msgid "Settings for the results when calling a category."
+msgstr "Einstellungen für die Ergebnisse beim Aufruf einer Kategorie."
+
+#: customizer-options/date-list-options.php:6
+msgid "Date Results List"
+msgstr "Datum Ergebnisliste"
+
+#: customizer-options/date-list-options.php:8
+msgid "Settings for the results when calling a date."
+msgstr "Einstellungen für die Ergebnisse beim Aufruf eines Datums."
+
+#: customizer-options/feed-options.php:6
+msgid "Feed"
+msgstr "Feed"
+
+#: customizer-options/feed-options.php:19
+msgid "Show landingpage section"
+msgstr "Zeige Landingpage Section"
+
+#: customizer-options/feed-options.php:32
+msgid "Landingpage image animation"
+msgstr "Landingpage Bild Animation"
+
+#: customizer-options/feed-options.php:47
+msgid "Minimal height of the landingpage"
+msgstr "Minimale Höhe der Landingpage"
+
+#: customizer-options/global-options.php:6
+msgid "Global"
+msgstr "Global"
+
+#: customizer-options/global-options.php:18
+msgid ""
+"All fonts are hosted locally. Consent according to the GDPR is not required "
+"for this theme (cookie banner)."
+msgstr ""
+"Alle Schriften werden lokal gehostet. Eine Einwilligung gemäß der DSGVO ist "
+"für dieses Theme nicht erforderlich (Cookie Banner)"
+
+#: customizer-options/global-options.php:19
+msgid "Main text font"
+msgstr "Hauptschrift"
+
+#: customizer-options/global-options.php:50
+msgid "Primary color"
+msgstr "Primärfarbe"
+
+#: customizer-options/global-options.php:62
+#: customizer-options/pages-options.php:71
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: customizer-options/global-options.php:74
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: customizer-options/global-options.php:90
+msgid "Comments Layout"
+msgstr "Kommentare Layout"
+
+#: customizer-options/header-options.php:6
+msgid "Header"
+msgstr "Header"
+
+#: customizer-options/header-options.php:34
+msgid "Fix Header"
+msgstr "Fixiere Header"
+
+#: customizer-options/header-options.php:47
+msgid "Show menu in header"
+msgstr "Zeige Menü im Header"
+
+#: customizer-options/header-options.php:61
+msgid "Show logo with link to home page"
+msgstr "Zeige Logo mit Link zur Startseite"
+
+#: customizer-options/header-options.php:75
+msgid "Show search bar"
+msgstr "Zeige Suchleiste"
+
+#: customizer-options/header-options.php:104
+msgid "Menu font size"
+msgstr "Menü Schriftgröße"
+
+#: customizer-options/header-options.php:132
+msgid "Icon 1 Font Awesome Icon Class"
+msgstr "Icon 1 Font Awesome Icon Class"
+
+#: customizer-options/header-options.php:145
+msgid "Icon 1 Link"
+msgstr "Icon 1 Link"
+
+#: customizer-options/header-options.php:158
+msgid "Icon 2 Font Awesome Icon Class"
+msgstr "Icon 2 Font Awesome Icon Class"
+
+#: customizer-options/header-options.php:171
+msgid "Icon 2 Link"
+msgstr "Icon 2 Link"
+
+#: customizer-options/header-options.php:184
+msgid "Icon 3 Font Awesome Icon Class"
+msgstr "Icon 3 Font Awesome Icon Class"
+
+#: customizer-options/header-options.php:197
+msgid "Icon 3 Link"
+msgstr "Icon 3 Link"
+
+#: customizer-options/header-options.php:210
+msgid "Icon 4 Font Awesome Icon Class"
+msgstr "Icon 4 Font Awesome Icon Class"
+
+#: customizer-options/header-options.php:223
+msgid "Icon 4 Link"
+msgstr "Icon 4 Link"
+
+#: customizer-options/layout-options.php:6
+msgid "Posts List Layouts"
+msgstr "Beitragsliste Layouts"
+
+#: customizer-options/layout-options.php:8
+msgid "Settings for the individual layouts."
+msgstr "Einstellungen der einzelnen Layouts."
+
+#: customizer-options/pages-options.php:6
+msgid "Pages"
+msgstr "Seiten"
+
+#: customizer-options/pages-options.php:8
+msgid "Options for WordPress \"Pages\"."
+msgstr "Optionen für WordPress „Seiten“."
+
+#: customizer-options/pages-options.php:21
+msgid "Maximum width of pages"
+msgstr "Maximale Breite der Seiten"
+
+#: customizer-options/post-list-layouts/cards-options.php:11
+#: customizer-options/post-list-layouts/frameless-post-list.php:11
+#: customizer-options/post-list-layouts/material2-post-list.php:11
+#: customizer-options/post-list-layouts/material3-post-list.php:11
+msgid "Cards background color"
+msgstr "Cards Hintergundfarbe"
+
+#: customizer-options/post-list-layouts/cards-options.php:25
+#: customizer-options/post-list-layouts/frameless-post-list.php:25
+#: customizer-options/post-list-layouts/material2-post-list.php:25
+#: customizer-options/post-list-layouts/material3-post-list.php:25
+msgid "Spacing between posts"
+msgstr "Abstand zwischen den Beiträgen"
+
+#: customizer-options/post-list-layouts/cards-options.php:42
+#: customizer-options/post-list-layouts/frameless-post-list.php:42
+#: customizer-options/post-list-layouts/material2-post-list.php:81
+#: customizer-options/post-list-layouts/material3-post-list.php:81
+msgid "Number of words in the snippet"
+msgstr "Anzahl der Wörter im Textausschnitt"
+
+#: customizer-options/post-list-layouts/cards-options.php:61
+#: customizer-options/post-list-layouts/frameless-post-list.php:61
+#: customizer-options/post-list-layouts/material2-post-list.php:118
+#: customizer-options/post-list-layouts/material3-post-list.php:118
+#: customizer-options/posts-options.php:177
+msgid "Show tags"
+msgstr "Zeige Tags"
+
+#: customizer-options/post-list-layouts/cards-options.php:74
+#: customizer-options/post-list-layouts/frameless-post-list.php:74
+msgid "Tags border radius"
+msgstr "Tags Rahmenradius"
+
+#: customizer-options/post-list-layouts/cards-options.php:93
+#: customizer-options/post-list-layouts/frameless-post-list.php:93
+#: customizer-options/post-list-layouts/material2-post-list.php:144
+#: customizer-options/post-list-layouts/material3-post-list.php:144
+msgid "Show read more button"
+msgstr "Zeige mehr lesen Button"
+
+#: customizer-options/post-list-layouts/cards-options.php:106
+#: customizer-options/post-list-layouts/frameless-post-list.php:106
+#: customizer-options/post-list-layouts/material2-post-list.php:131
+#: customizer-options/post-list-layouts/material3-post-list.php:131
+msgid "Show comments"
+msgstr "Zeige Kommentare"
+
+#: customizer-options/post-list-layouts/cards-options.php:119
+#: customizer-options/post-list-layouts/frameless-post-list.php:119
+#: customizer-options/post-list-layouts/material2-post-list.php:100
+#: customizer-options/post-list-layouts/material3-post-list.php:100
+msgid "Line height in text snippet"
+msgstr "Zeilenhöhe im Textausschnitt"
+
+#: customizer-options/post-list-layouts/cards-options.php:137
+msgid "Border radius"
+msgstr "Rahmenradius"
+
+#: customizer-options/post-list-layouts/cards-options.php:155
+#: customizer-options/post-list-layouts/frameless-post-list.php:137
+msgid "Padding"
+msgstr "Padding"
+
+#: customizer-options/post-list-layouts/cards-options.php:173
+#: customizer-options/post-list-layouts/frameless-post-list.php:155
+#: customizer-options/post-list-layouts/material2-post-list.php:43
+#: customizer-options/post-list-layouts/material3-post-list.php:43
+msgid "Show image"
+msgstr "Zeige Bild"
+
+#: customizer-options/post-list-layouts/cards-options.php:186
+#: customizer-options/post-list-layouts/frameless-post-list.php:168
+msgid "Image radius"
+msgstr "Bildradius"
+
+#: customizer-options/post-list-layouts/material2-post-list.php:56
+#: customizer-options/post-list-layouts/material3-post-list.php:56
+#: customizer-options/posts-options.php:130
+msgid "Show date"
+msgstr "Zeige Datum"
+
+#: customizer-options/post-list-layouts/material2-post-list.php:69
+#: customizer-options/post-list-layouts/material3-post-list.php:69
+#: customizer-options/posts-options.php:143
+msgid "Show categories"
+msgstr "Zeige Kategorien"
+
+#: customizer-options/posts-options.php:8
+msgid "Settings of the individual posts."
+msgstr "Einstellungen der einzelnen Beiträge."
+
+#: customizer-options/posts-options.php:21
+msgid "Maximum hero width"
+msgstr "Maximale Hero Breite"
+
+#: customizer-options/posts-options.php:39
+msgid "Show hero gradient background"
+msgstr "Zeige Hero Farbverlaufhintergrund"
+
+#: customizer-options/posts-options.php:52
+msgid "Show post image"
+msgstr "Zeige Beitragsbild"
+
+#: customizer-options/posts-options.php:66
+msgid "Maximum width of posts"
+msgstr "Maximale Breite der Beiträge"
+
+#: customizer-options/posts-options.php:82
+msgid "Posts background color"
+msgstr "Beiträge Hintergundfarbe"
+
+#: customizer-options/posts-options.php:163
+msgid "Layout Categories"
+msgstr "Layout Kategorien"
+
+#: customizer-options/posts-options.php:192
+msgid "Tags Layout"
+msgstr "Tags Layout"
+
+#: customizer-options/posts-options.php:211
+msgid "Show author details"
+msgstr "Zeige Autor Details"
+
+#: customizer-options/posts-options.php:231
+msgid "Authorbox Layout"
+msgstr "Autorenbox Layout"
+
+#: customizer-options/posts-options.php:245
+msgid "Show post pagination"
+msgstr "Zeige Postpaginierung"
+
+#: customizer-options/searchresults-options.php:6
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: customizer-options/searchresults-options.php:8
+msgid "Options for the search results."
+msgstr "Optionen für die Suchergebnisse."
+
+#: customizer-options/tag-list-options.php:6
+msgid "Tag Results List"
+msgstr "Tags Ergebnisliste"
+
+#: customizer-options/tag-list-options.php:8
+msgid "Settings for the results when calling a tag."
+msgstr "Einstellungen für die Ergebnisse beim Aufruf eines Tags."
+
+#: footer.php:11 template-parts/header-layouts/coder-header.php:42
+#: template-parts/header-layouts/gradient-header.php:36
+#: template-parts/header-layouts/material2-header.php:22
+#: template-parts/header-layouts/material2-header.php:36
+msgid "Select a menu in the customizer"
+msgstr "Wähle ein Menü im Customizer"
+
+#: footer.php:20
+#, php-format
+msgid "created by %1$s"
+msgstr "erstellt von %1$s"
+
+#: functions.php:63
+msgid "Header Menu"
+msgstr "Header Menü"
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr "Footer Menü"
+
+#: functions.php:73
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:86
+msgid "Landingpage Widget Area"
+msgstr "Landingpage Widget Area"
+
+#: functions.php:146
+msgid "Cards"
+msgstr "Cards"
+
+#: functions.php:147 functions.php:172
+msgid "Content Creator"
+msgstr "Content Creator"
+
+#: functions.php:148
+msgid "Discover"
+msgstr "Entdecker"
+
+#: functions.php:149 functions.php:158 functions.php:194 functions.php:202
+msgid "Frameless"
+msgstr "Rahmenlos"
+
+#: functions.php:152
+msgid "Search Engine"
+msgstr "Suchmaschine"
+
+#: functions.php:153 functions.php:164 functions.php:182 functions.php:207
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:157 functions.php:169
+msgid "Blocks"
+msgstr "Blöcke"
+
+#: functions.php:159 functions.php:175
+msgid "Frames"
+msgstr "Rahmen"
+
+#: functions.php:162 functions.php:179 functions.php:195 functions.php:205
+msgid "Neon"
+msgstr "Neon"
+
+#: functions.php:163 functions.php:180
+msgid "Network"
+msgstr "Netzwerk"
+
+#: functions.php:165
+msgid "Soft"
+msgstr "Soft"
+
+#: functions.php:170 functions.php:186
+msgid "Coder"
+msgstr "Coder"
+
+#: functions.php:171
+msgid "Color Blocks"
+msgstr "Farbblöcke"
+
+#: functions.php:173
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: functions.php:174
+msgid "Hub"
+msgstr "Hub"
+
+#: functions.php:176
+msgid "Links"
+msgstr "Links"
+
+#: functions.php:181 functions.php:206
+msgid "Portal"
+msgstr "Portal"
+
+#: functions.php:187
+msgid "Gradient"
+msgstr "Frabverlauf"
+
+#: functions.php:193
+msgid "Border"
+msgstr "Rahmen"
+
+#: functions.php:201
+msgid "Dark Cards"
+msgstr "Dunkle Karten"
+
+#: home.php:11
+msgid "Fill the landing page in the customizer"
+msgstr "Befülle die Landingpage im Customizer"
+
+#: index.php:24 page.php:24 single.php:58
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: search.php:16
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Suchergebnisse für \"%s\""
+
+#: sidebar.php:6
+msgid "Fill the sidebar in the customizer"
+msgstr "Befülle die Sidebar im Customizer"
+
+#: single.php:113
+msgid "&laquo; Previous Post"
+msgstr "&laquo; Vorheriger Beitrag"
+
+#: single.php:115
+msgid "Next Post &raquo;"
+msgstr "Nächster Beitrag &raquo;"
+
+#: template-parts/layout-manager.php:36
+msgid "Skip to main content"
+msgstr "Springe zum Hauptinhalt"
+
+#: template-parts/post-list-layouts/cards-posts-list.php:31
+#: template-parts/post-list-layouts/content-creator-posts-list.php:44
+#: template-parts/post-list-layouts/frameless-posts-list.php:32
+#: template-parts/post-list-layouts/material2-posts-list.php:54
+#: template-parts/post-list-layouts/material3-posts-list.php:52
+#: template-parts/post-list-layouts/social-posts-list.php:50
+msgid "read more"
+msgstr "mehr lesen"
+
+#~ msgid "Comments background color"
+#~ msgstr "Kommentare Hintergrundfarbe"
+
+#~ msgid "Layouts"
+#~ msgstr "Layouts"
+
+#~ msgid "Tags and chips color"
+#~ msgstr "Tags und Chips Farbe"
+
+#~ msgid "Maximum width of the feed"
+#~ msgstr "Maximale Breite des Feeds"
+
+#~ msgid "Font"
+#~ msgstr "Schrift"
+
+#, fuzzy
+#~| msgid "Show categories"
+#~ msgid "Show categorys"
+#~ msgstr "Zeige Kategorien"
+
+#~ msgid "Widget blocks sidebar background color"
+#~ msgstr "Widget Blocks Sidebar Hintergrundfarbe"
+
+#~ msgid "Date results style"
+#~ msgstr "Datum Ergebnisliste Style"
+
+#~ msgid "Frameless posts list"
+#~ msgstr "Rahmenlose Beitragsliste"
+
+#~ msgid "cards"
+#~ msgstr "cards"
+
+#~ msgid "Category results style"
+#~ msgstr "Kategorie Ergebnisliste Style"
+
+#~ msgid "Feed style"
+#~ msgstr "Feed Style"
+
+#~ msgid "Search results style"
+#~ msgstr "Suchergebnisse Style"
+
+#~ msgid "Tag results style"
+#~ msgstr "Tags Ergebnisliste Style"
+
+#~ msgid "Latest Posts"
+#~ msgstr "Letzte Beiträge"
